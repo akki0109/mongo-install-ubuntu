@@ -1,0 +1,25 @@
+    cd /
+    mkdir data
+    cd data/
+    mkdir db
+    cd
+    ls
+    chmod 777 /data/db
+    sudo chmod 777 /data/db
+    sudo  mongo
+    mongod
+    mongo
+    mongodb
+    mongo
+    mongoose
+    mongoDB
+    mongo
+    mongoshell
+    MongoDB
+    MongoDB shell
+    mongo
+    sudo apt update
+    apt list --upgradable
+    sudo apt install mongodb
+    sudo apt update && sudo apt install gnupg -y
+    mongo
